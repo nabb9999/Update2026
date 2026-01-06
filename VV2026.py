@@ -320,7 +320,7 @@ def ____banner____():
     else:
         os.system('clear')
     print(logo)   
-os.system('xdg-open https://www.facebook.com/groups/652859211233045/?ref=share&mibextid=WaXdOe')
+os.system('xdg-open https://https://www.facebook.com/groups/668506395565257/?ref=share&mibextid=NSMWBT')
     # Colors (example)
 W = '\033[1;37m'  # White
 G = '\033[1;32m'  # Green
